@@ -18,7 +18,7 @@ Un petit programme en **C** qui permet de multiplier deux nombres **de taille ar
 
 ```sh
 # Cloner le projet
-git clone https://github.com/TON-USER/infinity_multiplication.git
+git clone https://github.com/clemsRp/infinity_multiplication.git
 cd infinity_multiplication
 
 # Compiler le programme
